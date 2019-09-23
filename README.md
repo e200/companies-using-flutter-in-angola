@@ -6,3 +6,5 @@ Repositório de empresas ou produtos usando Flutter em Angola
 
 Nome|Site|Tecnologias
 :--:|----|-----------
+Digital Factory| https://www.digitalfactory.co.ao | Flutter, PHP, Vue.js, .Net... 
+Netlogia| https://www.netlogia.com |Flutter, PHP
